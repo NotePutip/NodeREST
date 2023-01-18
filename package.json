@@ -1,0 +1,27 @@
+{
+  "name": "noderest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "format": "prettier --write *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotePutip/NodeREST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NotePutip/NodeREST/issues"
+  },
+  "homepage": "https://github.com/NotePutip/NodeREST#readme",
+  "devDependencies": {
+    "prettier": "^2.8.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
